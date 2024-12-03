@@ -43,7 +43,7 @@ public class images {
                 }
             }
             else {
-                System.out.println("No image found with the given ID.");
+                System.out.println("No image was found with the given ID.");
             }
         }
         catch (SQLException | FileNotFoundException e){
